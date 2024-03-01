@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5866aa78-0df6-46b1-95d1-66b3e3d69182}</ProjectGuid>
-    <RootNamespace>FirstConsoleApplication</RootNamespace>
+    <ProjectGuid>{07f24e13-2f31-4f33-a25f-37eedbae5d07}</ProjectGuid>
+    <RootNamespace>LoopDoWhileConsoleApplication</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FirstConsoleApplication.cpp" />
+    <ClCompile Include="LoopDoWhileConsoleApplication.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
